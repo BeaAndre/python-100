@@ -2,7 +2,6 @@ import random
 
 print("Rock, paper or scissors?")
 choice = input()
-player = -1
 
 # [0] Rock
 # [1] Paper
