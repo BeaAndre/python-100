@@ -43,18 +43,20 @@ while(not end):
 
     # Checks if the user inserted a viable command
     if (command != "encrypt" and command != "decrypt"):
-        printError()  
+        printError()
+        end = True
     else:
         # Asks for user input: sentence and shift
         print(f"Insert the sentence you want to {command}:")
         sentence = input()
         shift = input("Insert the shift: ")
         
-        # Checks if user inserted an integer for the shift
+        # Checks if user inserted an integer for the shift, if not ends the program
         try:
             shiftInt = int(shift)
         except ValueError:
             printError()
+            break
         
         # Processes the encryption or decryption
         if(command == "encrypt"):
@@ -68,6 +70,7 @@ while(not end):
             end = True
         elif(askEnd != "y" and askEnd != "yes"):
             printError()
+            end = True
         else:
             # Program continues, this print is just to add an empty line
             print()
