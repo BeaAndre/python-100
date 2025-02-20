@@ -1,7 +1,7 @@
 BEGINNER LEVEL
-Day 1 - Band name generator
-Day 2 - Tip calculator
-Day 3 - Choice game
+Day 1 - Band name generator \n
+Day 2 - Tip calculator \n
+Day 3 - Choice game \n
 Day 4 - Rock paper scissors
 Day 5 - Password generator
 Day 6 - Freestyle, matrix positioning
