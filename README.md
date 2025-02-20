@@ -1,11 +1,13 @@
 BEGINNER LEVEL  
-Day 1 - Band name generator  
-Day 2 - Tip calculator  
-Day 3 - Choice game  
-Day 4 - Rock paper scissors  
-Day 5 - Password generator  
-Day 6 - Freestyle, matrix positioning  
-Day 7 - Hangman game  
-Day 8 - Caesar cypher  
-Day 9 - Secret auction  
+Day 01 - Band name generator  
+Day 02 - Tip calculator  
+Day 03 - Choice game  
+Day 04 - Rock paper scissors  
+Day 05 - Password generator  
+Day 06 - Freestyle, matrix positioning  
+Day 07 - Hangman game  
+Day 08 - Caesar cypher  
+Day 09 - Secret auction  
 Day 10 - Calculator  
+  
+Day 11 - CAPSTONE - ???
