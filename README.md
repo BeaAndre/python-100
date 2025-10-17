@@ -12,4 +12,5 @@ Day 10 - Calculator
 Day 11 - CAPSTONE - Blackjack  
 Day 12 to 14 - Higher/lower number guesser  
 Day 15 to 16 - Coffee machine (OOP)  
-Day 17 - Quiz
+Day 17 - Quiz  
+Day 18 - Turtle drawings
